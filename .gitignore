@@ -1,0 +1,7 @@
+CACHEDIR.TAG
+bin/
+etc/
+lib/
+share/
+.lock
+Scripts/
